@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a Computer Science student focusing on Practical Informatics.</p>
+<p align="left">I’m a Computer Science student focusing on Applied Composite Materials.</p>
 
 ###
 
